@@ -1,19 +1,11 @@
 # AVR Lab Exercises – ATmega328PB (2025–26)
 
-This repository contains solutions and support code for a series of AVR microcontroller lab exercises using the ATmega328PB on the ntuAboard_G1 platform.[file:1][file:2][file:3][file:4][file:5][file:6][file:7][file:9]
-
-## Technologies
-
-- ATmega328 / ATmega328PB microcontroller.[file:1][file:2]  
-- ntuAboard_G1 development board (16 MHz).[file:2][file:4]  
-- Assembly (MPLAB X) and C (AVR-GCC / avr-libc).[file:1][file:3]  
-- On-board peripherals: LEDs, DIP switches, potentiometers, LCD 2x16, CO sensor, 4x4 keypad, DS1820 temperature sensor, ESP8266 WiFi module, PCA9555 I/O expander.[file:4][file:5][file:6][file:7][file:9]
+This repository contains solutions and support code for a series of AVR microcontroller lab exercises using the ATmega328PB on the ntuAboard_G1 platform.
+<img width="828" height="592" alt="image" src="https://github.com/user-attachments/assets/b57bd34f-9e6d-458a-8c3b-b69cacd37afb" />
 
 ## Exercise 1 – Basic Assembly & Timing
 
-- Implemented millisecond delay routines in assembly using 16‑bit counters (r24/r25) and `sbiw`-based timing loops.[file:1]  
-- Built simple applications such as a stopwatch and logical operations to drive LEDs on PORTD.[file:1]  
-- Practiced stack initialization, register usage, and bitwise manipulation on ATmega328.[file:1]
+- Implemented millisecond delay routines in assembly using 16‑bit counters (r24/r25) and `sbiw`-based timing loops.  
 
 ## Exercise 2 – External Interrupts & Debouncing
 
