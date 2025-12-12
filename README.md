@@ -4,7 +4,12 @@ Solutions for the 7th‑semester Microprocessors Lab course at the National Tech
 
 
 This repository contains codes for a series of AVR microcontroller lab applications using the ATmega328PB on the ntuAboard_G1 platform.
+
 <img width="828" height="592" alt="image" src="https://github.com/user-attachments/assets/b57bd34f-9e6d-458a-8c3b-b69cacd37afb" />
+
+## Contributors
+- Nikolaos Apostolopoulos
+- Nektarios Vasiliou
 
 ## Exercise 1 – Basic Assembly & Timing
 
