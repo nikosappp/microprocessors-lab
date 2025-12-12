@@ -1,6 +1,6 @@
-# AVR Lab Exercises – ATmega328PB (2025–26)
+# AVR Lab Exercises – ATmega328PB 
 
-Solutions for the 7th‑semester Microprocessors Lab course at the National Technical University of Athens (NTUA).
+Solutions for the 7th‑semester Microprocessors Lab course at the National Technical University of Athens (2025–26).
 
 
 This repository contains solutions and support code for a series of AVR microcontroller lab exercises using the ATmega328PB on the ntuAboard_G1 platform.
